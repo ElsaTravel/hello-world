@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T04:37:36.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="oDap3WqgjSMr0IdzhpQ-" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T13:05:12.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="gvR4G8Q6OGzuH-0gCGSe" version="14.8.0" type="github">
   <diagram id="2TADyYtRJeXbwywr8u7V" name="第 1 页">
-    <mxGraphModel dx="1928" dy="956" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1879" dy="876" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-6" value="标签是否用于搜索？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="302" width="80" height="57" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0NsFDEd5azYHx1vuOnu8-8" target="0NsFDEd5azYHx1vuOnu8-5">
           <mxGeometry relative="1" as="geometry" />
@@ -161,6 +161,73 @@
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-52" value="标签搜索功能流程图：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="72" width="151" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-53" value="配置标签功能流程图：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="908" y="63" width="151" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-54" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="962" y="121" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-55" value="点击标签搜索页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="922" y="201" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-60" value="需要展示患者的属性，是否有搜索条件？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="453" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-62" value="有搜索条件的标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="915" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="0NsFDEd5azYHx1vuOnu8-69" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1177" y="549" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="0NsFDEd5azYHx1vuOnu8-76" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987" y="613" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="987" y="809" />
+              <mxPoint x="1177" y="809" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="0NsFDEd5azYHx1vuOnu8-69" target="0NsFDEd5azYHx1vuOnu8-71" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="0NsFDEd5azYHx1vuOnu8-69" target="0NsFDEd5azYHx1vuOnu8-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-69" value="标签设为隐藏or展示" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="579" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="0NsFDEd5azYHx1vuOnu8-71" target="0NsFDEd5azYHx1vuOnu8-76" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-71" value="隐藏的标签不展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="689" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="0NsFDEd5azYHx1vuOnu8-73" target="0NsFDEd5azYHx1vuOnu8-75" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-73" value="展示的标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="689" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="0NsFDEd5azYHx1vuOnu8-75" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1177" y="879" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-75" value="按照标签引用的变量顺序展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="779" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-76" value="展示搜索的患者，并每个患者展示标签" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="879" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-78" value="标签是否用于搜索？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="312" width="112" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="0NsFDEd5azYHx1vuOnu8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0NsFDEd5azYHx1vuOnu8-53" target="0NsFDEd5azYHx1vuOnu8-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
