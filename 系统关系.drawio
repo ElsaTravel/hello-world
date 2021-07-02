@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T13:07:08.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="E5ItXlpVsV2IRm9cYxmy" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T13:07:33.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ozgYiuVDyxltQunlpRMq" version="14.8.3" type="github">
   <diagram id="e9DhDae4qt_Jvad4-YHW" name="第 1 页">
     <mxGraphModel dx="1113" dy="2615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="739" y="240.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-10" value="根据摘要的数据获取规则，转换为可被摘要引用的数据" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-10" value="选择出为可被摘要引用的数据" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="609" y="256" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-26" edge="1">
