@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T03:20:13.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mBgkYu3wusWhZUWl2yLI" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T03:20:45.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="hQRdZTUkBWKRe8A9sxJT" version="14.8.3" type="github">
   <diagram id="e9DhDae4qt_Jvad4-YHW" name="第 1 页">
     <mxGraphModel dx="1678" dy="2827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-29" edge="1">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-55" value="部分数据被引用为摘要" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vF8Mc53fpWhSX6O-4FHy-39" vertex="1" connectable="0">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-55" value="部分数据被引用为摘要" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=2" parent="vF8Mc53fpWhSX6O-4FHy-39" vertex="1" connectable="0">
           <mxGeometry x="0.2719" y="3" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -107,7 +107,7 @@
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-28" value="患者数据+标签，导出" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="954" y="-251" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-29" value="患者摘要" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-29" value="患者摘要" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="794" y="-175" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-35" value="相互影响" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-27" target="vF8Mc53fpWhSX6O-4FHy-26" edge="1">
@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gbj-Aj7GcS96Cu6Ub37i-8" value="用户手动配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gbj-Aj7GcS96Cu6Ub37i-7">
+        <mxCell id="gbj-Aj7GcS96Cu6Ub37i-8" value="用户手动配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=2" vertex="1" connectable="0" parent="gbj-Aj7GcS96Cu6Ub37i-7">
           <mxGeometry x="0.0226" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
