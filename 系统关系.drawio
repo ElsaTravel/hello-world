@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T13:08:25.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BKbXxtGV9GsspOeHIkHG" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T02:57:05.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="dx9rWytPfkmZ85N7b6yl" version="14.8.3" type="github">
   <diagram id="e9DhDae4qt_Jvad4-YHW" name="第 1 页">
-    <mxGraphModel dx="1113" dy="2615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="2827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
             <mxPoint x="739" y="240.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-10" value="选择出为可被摘要引用的数据" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-10" value="选择出为可被摘要引用的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="609" y="256" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-26" edge="1">
@@ -117,18 +117,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-42" value="转换规则" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="263" y="-175" width="368" height="104" as="geometry">
+          <mxGeometry x="179" y="-184" width="366" height="123" as="geometry">
             <mxRectangle x="360" y="-104" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-43" value="1.所在访视、表单和问题组均不循环的变量；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
-          <mxGeometry y="26" width="368" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-44" value="2.数据类型为字符串可枚举型、时间、时间日期、数值型的变量；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
-          <mxGeometry y="52" width="368" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-45" value="3." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
-          <mxGeometry y="78" width="368" height="26" as="geometry" />
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-43" value="符合以下3个条件的变量可被筛选出来：&#xa;1.所在访视、表单和问题组均不循环的变量；&#xa;2.数据类型为字符串可枚举型、时间、时间日期、数值型的变量；&#xa;3.变量分类为「CDM画像」和「DDM画像」；&#xa;取「变量标题」和「值」，作为标签分类和标签值；&#xa;按照标签分类/标签值的方式进行组合；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
+          <mxGeometry y="26" width="366" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-48" value="关键词搜索" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="954" y="-421" width="90" height="30" as="geometry" />
