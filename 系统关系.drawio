@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T06:57:46.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="YkqPUH_mpd9HmeKzYO7X" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T11:18:31.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eyvrxhG5jrz0oI8j7bg2" version="14.8.3" type="github">
   <diagram id="e9DhDae4qt_Jvad4-YHW" name="第 1 页">
-    <mxGraphModel dx="463" dy="2191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="2826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,8 @@
         <mxCell id="gbj-Aj7GcS96Cu6Ub37i-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="-1683" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="573" y="-1090" as="sourcePoint" />
-            <mxPoint x="713" y="-1089.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-10" value="&lt;span&gt;选择出为可被摘要引用的数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="588" y="-1088" width="110" height="50" as="geometry" />
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-10" value="摘要始终保持展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="642" y="-1055" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,14 +40,17 @@
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-11" value="标签" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="502" y="-674" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gbj-Aj7GcS96Cu6Ub37i-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="vF8Mc53fpWhSX6O-4FHy-12" target="vF8Mc53fpWhSX6O-4FHy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-12" value="&lt;span&gt;标签数据&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="473" y="-1134" width="60" height="90" as="geometry" />
+          <mxGeometry x="483" y="-1134" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-13" value="CRF数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="153" y="-1149" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-14" value="患者摘要数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="753" y="-1124" width="40" height="70" as="geometry" />
+          <mxGeometry x="673" y="-1127" width="34" height="76" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +124,7 @@
             <mxRectangle x="360" y="-104" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-43" value="符合以下3个条件的变量可被筛选出来：&#xa;1.所在访视、表单和问题组均不循环，且变量标题不重复；&#xa;2.数据类型为字符串可枚举型、时间、时间日期、数值型的变量；&#xa;&#xa;分别取「变量名称」和变量「值」，作为标签分类和标签值；&#xa;按照标签分类(标签值)的方式进行组合；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-43" value="符合以下2个条件的变量可被筛选出来：&#xa;1.变量所在访视、表单均不循环，且变量不在标签组和同选项组；&#xa;2.数据类型为字符串可枚举型的变量；&#xa;&#xa;分别取「变量名称」和变量「值」，作为标签分类和标签值；&#xa;按照标签值-标签分类的方式进行组合；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
           <mxGeometry y="26" width="366" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-48" value="关键词搜索" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -317,6 +314,9 @@
         </mxCell>
         <mxCell id="gbj-Aj7GcS96Cu6Ub37i-94" value="患者..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="659" y="-1540.5" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gbj-Aj7GcS96Cu6Ub37i-99" value="选取标签数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="554" y="-1129" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
