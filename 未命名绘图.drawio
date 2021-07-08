@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T14:02:50.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PY1lv24oNVfoS2MUB0C9" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T10:36:03.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BiIawluelOgGOcG2bctH" version="14.8.3" type="github">
   <diagram id="2TADyYtRJeXbwywr8u7V" name="第 1 页">
-    <mxGraphModel dx="2878" dy="907" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2381" dy="621" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0NsFDEd5azYHx1vuOnu8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0NsFDEd5azYHx1vuOnu8-5" target="0NsFDEd5azYHx1vuOnu8-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="316" y="278" as="targetPoint" />
+            <mxPoint x="-260" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-5" value="点击标签搜索页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="256" y="176" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="186" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0NsFDEd5azYHx1vuOnu8-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="153" as="sourcePoint" />
+            <mxPoint x="-261" y="163" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0NsFDEd5azYHx1vuOnu8-15" target="0NsFDEd5azYHx1vuOnu8-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-15" value="勾选需要搜索的标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="256" y="283" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-19" value="点击搜索按钮" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="256" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" parent="1" source="0NsFDEd5azYHx1vuOnu8-19" target="0NsFDEd5azYHx1vuOnu8-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="578" as="sourcePoint" />
+            <mxPoint x="-261" y="588" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-26" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0NsFDEd5azYHx1vuOnu8-24" target="0NsFDEd5azYHx1vuOnu8-25" edge="1">
@@ -38,16 +38,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-24" value="患者符合条件？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="251" y="500" width="130" height="80" as="geometry" />
+          <mxGeometry x="-325" y="510" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-25" value="展示患者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="255" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="-321" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0NsFDEd5azYHx1vuOnu8-27" target="0NsFDEd5azYHx1vuOnu8-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-27" value="不展示患者" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="-131" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0NsFDEd5azYHx1vuOnu8-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-52" value="标签搜索功能流程图：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="74" y="48" width="283" height="20" as="geometry" />
+          <mxGeometry x="-502" y="58" width="283" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-53" value="配置标签功能流程图：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-1115" y="82" width="278" height="20" as="geometry" />
@@ -129,25 +129,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-2" value="&lt;span&gt;标签配置完成&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257" y="95" width="120" height="55" as="geometry" />
+          <mxGeometry x="-319" y="105" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-873" y="752" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-45" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="286" y="799" width="59" height="59" as="geometry" />
+          <mxGeometry x="-290" y="809" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="0NsFDEd5azYHx1vuOnu8-25" target="0NsFDEd5azYHx1vuOnu8-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="505" y="1265" as="targetPoint" />
-            <mxPoint x="315" y="715" as="sourcePoint" />
+            <mxPoint x="-71" y="1275" as="targetPoint" />
+            <mxPoint x="-261" y="725" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-22" value="&lt;h5&gt;标签类：&lt;/h5&gt;1.可用于搜索的标签(默认为展示)；&lt;br&gt;2.不用于搜索，但需要展示的标签；&lt;br&gt;3.设为患者摘要的标签；&lt;br&gt;&lt;h5&gt;标签顺序：&lt;/h5&gt;1.先展示可用于搜索的标签；&lt;br&gt;2.后展示不用于搜索但需要展示的标签；&lt;br&gt;3.可用于搜索的标签之间，按照勾选的搜索条件顺序进行展示；&lt;br&gt;4.不用于搜索但需要展示的标签之间，按照数据来源的CRF字段顺序进行展示；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1139" y="590" width="197" height="256" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-23" value="&lt;br&gt;患者状态为：&lt;br&gt;有对应标签的患者；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="88" y="656" width="131" height="37" as="geometry" />
+          <mxGeometry x="-488" y="666" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=19;strokeColor=#000000;" edge="1" parent="1" source="lo-D50GMY3HxLi5D7oOY-24" target="0NsFDEd5azYHx1vuOnu8-73">
           <mxGeometry relative="1" as="geometry">
@@ -157,7 +157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lo-D50GMY3HxLi5D7oOY-24" value="用于患者摘要的标签" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-24" value="用于患者摘要的标签" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-1093" y="306" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="lo-D50GMY3HxLi5D7oOY-25" target="0NsFDEd5azYHx1vuOnu8-73">
@@ -191,8 +191,194 @@
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-42" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0NsFDEd5azYHx1vuOnu8-25" target="lo-D50GMY3HxLi5D7oOY-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="762" y="550" as="sourcePoint" />
-            <mxPoint x="563" y="490" as="targetPoint" />
+            <mxPoint x="186" y="560" as="sourcePoint" />
+            <mxPoint x="-13" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-47" target="lo-D50GMY3HxLi5D7oOY-50" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="929" y="1252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-47" value="点击标签搜索页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="lo-D50GMY3HxLi5D7oOY-47" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="928" y="1126.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-50" target="lo-D50GMY3HxLi5D7oOY-51" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-50" value="勾选需要搜索的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="1257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-51" value="点击搜索按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="1369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;" edge="1" source="lo-D50GMY3HxLi5D7oOY-51" target="lo-D50GMY3HxLi5D7oOY-55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="928" y="1552" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-53" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-55" target="lo-D50GMY3HxLi5D7oOY-56" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-54" value="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-55" target="lo-D50GMY3HxLi5D7oOY-58" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-55" value="患者符合条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="1474" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-56" value="展示患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1629" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-58" target="lo-D50GMY3HxLi5D7oOY-61" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-58" value="不展示患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="1629" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-59" value="标签搜索功能流程图：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="687" y="1022" width="283" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-60" value="根据规则转换的标签" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1069" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-61" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="899" y="1773" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;" edge="1" source="lo-D50GMY3HxLi5D7oOY-56" target="lo-D50GMY3HxLi5D7oOY-61" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1118" y="2239" as="targetPoint" />
+            <mxPoint x="928" y="1689" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-63" value="&lt;br&gt;患者状态为：符合标签搜索条件的患者；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="701" y="1630" width="131" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-64" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-56" target="lo-D50GMY3HxLi5D7oOY-63" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1375" y="1524" as="sourcePoint" />
+            <mxPoint x="1176" y="1464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-65" value="配置标签功能流程图：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1026" width="278" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="lo-D50GMY3HxLi5D7oOY-67" target="lo-D50GMY3HxLi5D7oOY-71" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-67" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1057" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" source="lo-D50GMY3HxLi5D7oOY-92" target="lo-D50GMY3HxLi5D7oOY-89" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="1225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-69" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Verdana;" vertex="1" connectable="0" parent="lo-D50GMY3HxLi5D7oOY-68">
+          <mxGeometry x="-0.1265" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-71" target="lo-D50GMY3HxLi5D7oOY-87" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487" y="1198" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-71" value="标签配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1137" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-73" target="lo-D50GMY3HxLi5D7oOY-78" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-73" value="不用于搜索的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="1246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-78" target="lo-D50GMY3HxLi5D7oOY-79" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-75" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lo-D50GMY3HxLi5D7oOY-74">
+          <mxGeometry x="-0.2699" relative="1" as="geometry">
+            <mxPoint x="23" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-78" target="lo-D50GMY3HxLi5D7oOY-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-77" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lo-D50GMY3HxLi5D7oOY-76">
+          <mxGeometry x="-0.5318" y="-3" relative="1" as="geometry">
+            <mxPoint x="-32" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-78" value="标签是否配置为隐藏" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="1419" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-79" value="隐藏的标签不展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-81" target="lo-D50GMY3HxLi5D7oOY-84" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.5" y="1649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-81" value="需要展示的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-79" target="lo-D50GMY3HxLi5D7oOY-84" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.5" y="1698" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-65" target="lo-D50GMY3HxLi5D7oOY-65" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-84" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1696" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-85" value="&lt;h5&gt;标签类：&lt;/h5&gt;1.可用于搜索的标签(默认为展示)；&lt;br&gt;2.不用于搜索，但需要展示的标签；&lt;br&gt;3.设为患者摘要的标签；&lt;br&gt;&lt;h5&gt;标签顺序：&lt;/h5&gt;1.先展示可用于搜索的标签；&lt;br&gt;2.后展示不用于搜索但需要展示的标签；&lt;br&gt;3.可用于搜索的标签之间，按照勾选的搜索条件顺序进行展示；&lt;br&gt;4.不用于搜索但需要展示的标签之间，按照数据来源的CRF字段顺序进行展示；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="102" y="1534" width="197" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=19;strokeColor=#000000;" edge="1" source="lo-D50GMY3HxLi5D7oOY-87" target="lo-D50GMY3HxLi5D7oOY-81" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="1455" />
+              <mxPoint x="387" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-87" value="用于患者摘要的标签" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="148" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" source="lo-D50GMY3HxLi5D7oOY-89" target="lo-D50GMY3HxLi5D7oOY-81" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-89" value="用于搜索的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1362" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" source="lo-D50GMY3HxLi5D7oOY-92" target="lo-D50GMY3HxLi5D7oOY-73" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-91" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Verdana;" vertex="1" connectable="0" parent="lo-D50GMY3HxLi5D7oOY-90">
+          <mxGeometry x="0.0882" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-92" value="标签是否用于搜索？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1241" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" source="lo-D50GMY3HxLi5D7oOY-71" target="lo-D50GMY3HxLi5D7oOY-92" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387" y="1184" as="sourcePoint" />
+            <mxPoint x="388" y="1326.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-94" value="" style="endArrow=none;html=1;strokeColor=#000000;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" source="lo-D50GMY3HxLi5D7oOY-85" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="292" y="1503" as="sourcePoint" />
+            <mxPoint x="323" y="1555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
