@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T11:18:31.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eyvrxhG5jrz0oI8j7bg2" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T11:19:44.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vm0l-r8myY1BHnxt4AG1" version="14.8.3" type="github">
   <diagram id="e9DhDae4qt_Jvad4-YHW" name="第 1 页">
     <mxGraphModel dx="1722" dy="2826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vF8Mc53fpWhSX6O-4FHy-11" target="vF8Mc53fpWhSX6O-4FHy-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-55" value="部分数据被引用为摘要" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=2" parent="vF8Mc53fpWhSX6O-4FHy-39" vertex="1" connectable="0">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-55" value="部分数据直接选为摘要" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="vF8Mc53fpWhSX6O-4FHy-39" vertex="1" connectable="0">
           <mxGeometry x="0.2719" y="3" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -124,7 +124,7 @@
             <mxRectangle x="360" y="-104" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vF8Mc53fpWhSX6O-4FHy-43" value="符合以下2个条件的变量可被筛选出来：&#xa;1.变量所在访视、表单均不循环，且变量不在标签组和同选项组；&#xa;2.数据类型为字符串可枚举型的变量；&#xa;&#xa;分别取「变量名称」和变量「值」，作为标签分类和标签值；&#xa;按照标签值-标签分类的方式进行组合；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
+        <mxCell id="vF8Mc53fpWhSX6O-4FHy-43" value="符合以下2个条件的变量可被筛选出来：&#xa;1.变量所在访视、表单均不循环，且变量不在标签组和同选项组；&#xa;2.数据类型为字符串可枚举型的变量；&#xa;&#xa;分别取「变量名称」和变量「值」，作为标签分类和标签值；&#xa;按照标签值-标签分类的方式进行组合；" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#7EA6E0;" parent="vF8Mc53fpWhSX6O-4FHy-42" vertex="1">
           <mxGeometry y="26" width="366" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vF8Mc53fpWhSX6O-4FHy-48" value="关键词搜索" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
