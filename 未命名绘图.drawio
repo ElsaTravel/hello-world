@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T01:14:02.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AW68-xreIWr3-FxwRUDb" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T01:15:36.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="oqgflgid9Zt1_WhMKsed" version="14.9.0" type="github">
   <diagram id="2TADyYtRJeXbwywr8u7V" name="第 1 页">
     <mxGraphModel dx="2152" dy="557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <mxPoint x="-261" y="725" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lo-D50GMY3HxLi5D7oOY-22" value="&lt;h5&gt;特征信息分类：&lt;/h5&gt;1.可用于搜索的特征信息(默认为展示)；&lt;br&gt;2.设为患者摘要的特征信息；&lt;br&gt;&lt;h5&gt;特征信息顺序：&lt;/h5&gt;1.先展示可用于搜索的标签；&lt;br&gt;2.后展示不用于搜索但需要展示的标签；&lt;br&gt;3.可用于搜索的标签之间，按照勾选的搜索条件顺序进行展示；&lt;br&gt;4.不用于搜索但需要展示的标签之间，按照数据来源的CRF字段顺序进行展示；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-22" value="&lt;h5&gt;特征信息分类：&lt;/h5&gt;1.可用于搜索的特征信息(默认为展示)；&lt;br&gt;2.设为患者摘要的特征信息；&lt;br&gt;&lt;h5&gt;特征信息顺序：&lt;/h5&gt;&lt;div&gt;按照配置顺序进行展示，摘要信息的患者数据出现缺失时，不展示对应的关键信息；&lt;/div&gt;" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1168" y="587" width="197" height="256" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-23" value="&lt;br&gt;患者状态为：&lt;br&gt;有对应标签的患者；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
