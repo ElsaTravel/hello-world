@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T01:12:45.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="cfPKuMbjKOt-z7LKb9FN" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T01:13:46.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="IiARtLFNVpMHMY0lQgwQ" version="14.9.0" type="github">
   <diagram id="2TADyYtRJeXbwywr8u7V" name="第 1 页">
     <mxGraphModel dx="2152" dy="557" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -84,9 +84,12 @@
         <mxCell id="0NsFDEd5azYHx1vuOnu8-55" value="&amp;nbsp;特征信息配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-914" y="193" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="lo-D50GMY3HxLi5D7oOY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0NsFDEd5azYHx1vuOnu8-62" edge="1">
+        <mxCell id="r0KFX-PSw_EzG97VqH4p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NsFDEd5azYHx1vuOnu8-62">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-685" y="475" as="targetPoint" />
+            <mxPoint x="-852" y="662" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-680" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-62" value="不用于搜索的特征信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -100,19 +103,11 @@
         <mxCell id="0NsFDEd5azYHx1vuOnu8-73" value="需要展示的特征信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-913" y="577" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="lo-D50GMY3HxLi5D7oOY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="lo-D50GMY3HxLi5D7oOY-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-686" y="649" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0NsFDEd5azYHx1vuOnu8-53" target="0NsFDEd5azYHx1vuOnu8-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-2" value="&lt;span&gt;标签配置完成&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-319" y="105" width="120" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="lo-D50GMY3HxLi5D7oOY-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-873" y="752" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0NsFDEd5azYHx1vuOnu8-45" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-290" y="809" width="59" height="59" as="geometry" />
@@ -123,7 +118,7 @@
             <mxPoint x="-261" y="725" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lo-D50GMY3HxLi5D7oOY-22" value="&lt;h5&gt;特征信息分类：&lt;/h5&gt;1.可用于搜索的特征信息(默认为展示)；&lt;br&gt;2.设为患者摘要的特征信息；&lt;br&gt;&lt;h5&gt;标签顺序：&lt;/h5&gt;1.先展示可用于搜索的标签；&lt;br&gt;2.后展示不用于搜索但需要展示的标签；&lt;br&gt;3.可用于搜索的标签之间，按照勾选的搜索条件顺序进行展示；&lt;br&gt;4.不用于搜索但需要展示的标签之间，按照数据来源的CRF字段顺序进行展示；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-22" value="&lt;h5&gt;特征信息分类：&lt;/h5&gt;1.可用于搜索的特征信息(默认为展示)；&lt;br&gt;2.设为患者摘要的特征信息；&lt;br&gt;&lt;h5&gt;特征信息顺序：&lt;/h5&gt;1.先展示可用于搜索的标签；&lt;br&gt;2.后展示不用于搜索但需要展示的标签；&lt;br&gt;3.可用于搜索的标签之间，按照勾选的搜索条件顺序进行展示；&lt;br&gt;4.不用于搜索但需要展示的标签之间，按照数据来源的CRF字段顺序进行展示；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1168" y="587" width="197" height="256" as="geometry" />
         </mxCell>
         <mxCell id="lo-D50GMY3HxLi5D7oOY-23" value="&lt;br&gt;患者状态为：&lt;br&gt;有对应标签的患者；" style="text;html=1;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -369,6 +364,9 @@
         </mxCell>
         <mxCell id="r0KFX-PSw_EzG97VqH4p-1" value="特征信息排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-913" y="498" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="lo-D50GMY3HxLi5D7oOY-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-873" y="677" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
